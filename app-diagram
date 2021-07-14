@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-12T20:20:58.297Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="9tGzqTJeu0TqQ5yTF87B" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-14T18:52:32.763Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="kAOAE_oPWy3rlAV1cnRO" version="14.8.6" type="github">
   <diagram id="XAxExx2WdUx1VqAocAim" name="Page-1">
-    <mxGraphModel dx="1113" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1351" dy="651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,7 +14,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HJQgKj-GLZQ7R7KQnPEf-1" value="Image" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="110" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HJQgKj-GLZQ7R7KQnPEf-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.638;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="HJQgKj-GLZQ7R7KQnPEf-3" target="HJQgKj-GLZQ7R7KQnPEf-15">
           <mxGeometry relative="1" as="geometry">
@@ -22,7 +22,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HJQgKj-GLZQ7R7KQnPEf-3" value="WebService" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="300" y="255" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HJQgKj-GLZQ7R7KQnPEf-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="HJQgKj-GLZQ7R7KQnPEf-5" target="HJQgKj-GLZQ7R7KQnPEf-31">
           <mxGeometry relative="1" as="geometry" />
@@ -133,6 +133,14 @@
         </mxCell>
         <mxCell id="HJQgKj-GLZQ7R7KQnPEf-52" value="Storage" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="820" y="550" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HJQgKj-GLZQ7R7KQnPEf-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HJQgKj-GLZQ7R7KQnPEf-56">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="289.9999999999998" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HJQgKj-GLZQ7R7KQnPEf-56" value="Controles" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
